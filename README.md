@@ -1,4 +1,4 @@
-# Sydney-Carter
+# sydcar
 About Me:
 - I'm a senior computer science major with a concentration in data science and a minor in mathematics.
 - I'm currently based in Charlotte, NC.
